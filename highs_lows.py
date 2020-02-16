@@ -18,13 +18,16 @@ with open(filename) as f:
 
     dates, highs, lows = [], [], []
     for row in reader:
-        current_date = datetime.strptime(row[0], "%Y-%m-%d")
-        dates.append(current_date)
-        high = int(row[1])
-        highs.append(high)
-
-        low = int(row[3])
-        lows.append(low)
+        try:
+            current_date = datetime.strptime(row[0], "%Y-%m-%d")
+            high = int(row[1])
+            low = int(row[3])
+        except ValueError:
+            print(current_date, 'missing data')
+        else:
+            highs.append(high)
+            dates.append(current_date)
+            lows.append(low)
 
     # print(highs)
 
@@ -39,8 +42,9 @@ with open(filename) as f:
     #设置图形的格式
     #plt.title("Daily high temperatures, July 2014", fontsize=24)
     #plt.title("Daily high temperatures - 2014", fontsize=24)
-    plt.title("Daily high and low temperatures - 2014", fontsize=24)
-    plt.xlabel('', fontsize=16)
+    # plt.title("Daily high and low temperatures - 2014", fontsize=24)
+    plt.title("Daily high and low temperatures - 2014\nDeath Valley, CA")
+    plt.xlabel('', fontsize=20)
     fig.autofmt_xdate()
     plt.ylabel("Temperature (F)", fontsize=16)
     plt.tick_params(axis='both', which='major', labelsize=16)
