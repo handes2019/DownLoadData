@@ -42,7 +42,7 @@
   
   
 
-  <meta name="request-id" content="E68E:0D21:CF4EA5:126BFDD:5E4A4AF1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4c73f2896fc79e16534de474d0d44d7fda49537c" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFNjhFOjBEMjE6Q0Y0RUE1OjEyNkJGREQ6NUU0QTRBRjEiLCJ2aXNpdG9yX2lkIjoiMTMyNjc3NDA3NzE1OTUyNTEwNSIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGhlYXN0LTEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="f8b8b6fee2e6e705cbb0a36a956cbd182d6fd2b8355c4740bfd9f0a95be88cd0" data-pjax-transient="true"/>
+  <meta name="request-id" content="E811:0D21:CFC2B6:12762F7:5E4A4C24" data-pjax-transient="true"/><meta name="html-safe-nonce" content="bba8e2fdfaf6f93cd1d6c84c501013120e69a83a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFODExOjBEMjE6Q0ZDMkI2OjEyNzYyRjc6NUU0QTRDMjQiLCJ2aXNpdG9yX2lkIjoiMjgwMjMyNTQyNDczMzU3MjEzMyIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGhlYXN0LTEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="6951935af2698f48cef23fa762eae82d0171144dcb2528f8d6a3a77a8a973450" data-pjax-transient="true"/>
 
 
 
@@ -283,7 +283,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="JdtTpizQu3HkT2dSEGXrBRcNW+HiyksoCFiQm9Y4KPtHk1YehphWtAzaknsevq3dPGQE7oGEKWkuOKbInhIUyw==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="WevORO099Te5Rtrd2pMuZk3fS/Vd9Y+91Gi/w9yCza02sS9MdtBDeIv8DLV7Dw0ccq0AD4DsIYvu33LBFAJclA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -643,7 +643,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/handes2019/DownLoadData/blob/81d0714135fd4f8a75abcfa4e20139f32ff30e10/btc_master/btc_close_2017.json">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/handes2019/DownLoadData/blob/5542dfda643d9c1552b3eaceab1865fd773bb929/btc_master/btc_close_2017.json">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:ae4e761f7497694a4b53538807b1cf91 -->
         <div class="signup-prompt-bg rounded-1 js-signup-prompt" data-prompt="signup" hidden>
@@ -10483,7 +10483,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/handes2019/DownLoadData/blame/81d0714135fd4f8a75abcfa4e20139f32ff30e10/btc_master/btc_close_2017.json">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/handes2019/DownLoadData/blame/5542dfda643d9c1552b3eaceab1865fd773bb929/btc_master/btc_close_2017.json">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/handes2019/DownLoadData/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
